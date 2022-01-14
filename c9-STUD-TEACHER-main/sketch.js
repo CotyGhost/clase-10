@@ -1,0 +1,10 @@
+console.log("hola");
+console.log("hola jaja");
+console.log("que haces o que?");
+console.log("nada,nomas acabo de llegar a mi casa que fui al cine");
+console.log("enserio? que padre,que pelicula viste?");
+console.log("acabo de ver la pelicula de spiderman,esta muy buena");
+console.log("ayy que padre yo la quiero ver PERO NADA DE SPOILERS hasta que la vea");
+console.log("jaja solo te voy a decir una cosa");
+console.log("nooo no me digas porfavor");
+console.log("bueno okok");
